@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satyas77
-- 👀 I’m a Newbie to this AI world..
-- 🌱 I’m currently learning Machine Learning & Deep Learning...
+- 👀 Newbie to this AI world..
+- 🌱 Currently learning Machine Learning & Deep Learning...
 
 
 
